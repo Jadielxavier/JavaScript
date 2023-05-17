@@ -1,0 +1,11 @@
+
+
+.menu{ /* estilazndo para a class = menu*/
+
+    list-style-type: upper-roman;/* mudou para algarismo romano maiusculo*/
+
+}
+
+ul{
+    list-style-type: none; /* retirou todas marcação da tag ul */
+}
